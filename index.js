@@ -7,4 +7,4 @@ const getDaysAfterSpecifiedDate = (days) => {
   }-${resultDate.getFullYear()}`;
 };
 
-module.exports = getDaysAfterSpecifiedDate();
+module.exports = getDaysAfterSpecifiedDate;
